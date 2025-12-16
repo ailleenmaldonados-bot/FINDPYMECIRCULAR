@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FinPyme Circular | Crecimiento Sostenible</title>
+<style>
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f4f6f8;
+color: #333;
+}
+header {
+background-color: #0f766e;
+color: white;
+padding: 40px 20px;
+text-align: center;
+}
+section {
+padding: 40px 20px;
+max-width: 1000px;
+margin: auto;
+}
+h2 {
+color: #0f766e;
+}
+.card-container {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+gap: 20px;
+margin-top: 20px;
+}
+.card {
+background: white;
+padding: 20px;
+border-radius: 12px;
+box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+footer {
+background-color: #1f2937;
+color: white;
+text-align: center;
+padding: 20px;
+}
+.highlight {
+font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>FinPyme Circular</h1>
+<p>Impulsamos pymes rentables, sostenibles y escalables</p>
+</header>
+
+
+<section>
+<h2>¿Quiénes somos?</h2>
+<p>
+FinPyme Circular es una iniciativa orientada a apoyar a pequeñas y medianas empresas en su crecimiento,
+combinando gestión financiera, sostenibilidad y acceso a financiamiento.
+</p>
+</section>
+
+
+<section>
+<h2>¿Qué problema resolvemos?</h2>
+<p>
+Muchas pymes no cuentan con información financiera clara ni con indicadores sociales y ambientales,
+lo que limita su acceso a fondos, inversionistas y oportunidades de crecimiento.
+</p>
+</section>
+
+
+</html>
